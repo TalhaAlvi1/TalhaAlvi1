@@ -33,20 +33,6 @@ I'm also experimenting with **AI Agents** that reason through multi-step tasks u
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talha-alvi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-alvi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talha-alvi&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -71,48 +57,6 @@ I'm also experimenting with **AI Agents** that reason through multi-step tasks u
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [RAG-Based Intelligent Q&A Bot](https://github.com/talha-alvi)
-> Built an end-to-end Retrieval-Augmented Generation pipeline that lets users query any document set with zero hallucination.
-- **Stack:** Python · LangChain · FAISS · Hugging Face · OpenAI API
-- **What it does:** Chunks documents → embeds with sentence-transformers → retrieves top-k context → LLM generates grounded answers
-- **Why it matters:** Eliminates LLM hallucination on domain-specific knowledge by grounding every response in retrieved evidence
-
----
-
-### 🧠 [AI Agent with Tool Use & Reasoning](https://github.com/talha-alvi)
-> Autonomous agent that decomposes complex tasks, calls tools, and reasons through multi-step problems without human intervention.
-- **Stack:** Python · LangChain Agents · OpenAI / Mistral
-- **What it does:** Task decomposition → tool invocation → memory → final answer
-- **Why it matters:** Explores the frontier between "prompted LLM" and "truly autonomous AI system"
-
----
-
-### 👁️ [Object Detection & Image Classification — Computer Vision](https://github.com/talha-alvi)
-> End-to-end computer vision pipeline from raw images to classified output.
-- **Stack:** Python · OpenCV · TensorFlow/PyTorch · CNN
-- **What it does:** Data augmentation → CNN architecture → training → inference with bounding boxes
-- **Why it matters:** Real-world CV pipeline covering every stage from data to deployment-ready model
-
----
-
-### 💬 [NLP Text Classification Pipeline](https://github.com/talha-alvi)
-> Complete NLP pipeline from raw text to classified categories with multiple model comparison.
-- **Stack:** Python · NLTK · Scikit-learn · NumPy · Pandas
-- **What it does:** Tokenization → stopword removal → stemming → TF-IDF → model training → evaluation
-- **Why it matters:** Demonstrates full understanding of NLP pipeline, not just library calls
-
----
-
-### 📊 [Data Mining & Pattern Recognition](https://github.com/talha-alvi)
-> Applied unsupervised and supervised learning to extract patterns from real-world structured datasets.
-- **Stack:** Python · Scikit-learn · Pandas · Matplotlib
-- **What it does:** K-Means clustering · Decision Tree classification · Association rule mining
-- **Why it matters:** Shows ability to extract meaningful insights from raw, unstructured business data
 
 ---
 
