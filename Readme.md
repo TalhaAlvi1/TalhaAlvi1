@@ -70,10 +70,6 @@ I'm also experimenting with **AI Agents** that reason through multi-step tasks u
   <a href="https://www.linkedin.com/in/talha-hassan-alvi-654623276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/talha-alvi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
