@@ -1,12 +1,12 @@
-# 🚀 Welcome to My GitHub Profile!
+#  Welcome to My GitHub Profile!
 
 ---
 
-## 🔗 Who Am I?
+##  Who Am I?
 
 Hey there! I'm **Talha Hassan Alvi** — an AI Engineer passionate about building intelligent systems that **learn, reason, and interact** with the world.
 
-💡 **What drives me?** I thrive on turning raw data into working AI — from training deep learning models to building RAG-based bots that actually make sense of documents. My focus is on **Generative AI, Large Language Models, Computer Vision, and NLP** — creating systems that don't just predict, but *understand*.
+I work across Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI — wherever there's an interesting problem to solve. I like working end-to-end: starting from raw data, building the model or pipeline, and getting to a working output.
 
 ---
 
