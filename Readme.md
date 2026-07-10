@@ -25,8 +25,6 @@ I work across Machine Learning, Deep Learning, Computer Vision, NLP, and Generat
 
 I'm diving deep into **Large Language Models** and building production-ready **RAG-based AI systems** that ground LLM responses in real documents — eliminating hallucination with vector search and semantic retrieval.
 
-I'm also experimenting with **AI Agents** that reason through multi-step tasks using tool-calling and memory — pushing toward truly autonomous intelligent systems.
-
 🤝 **Collaboration:** I'm open to collaborating on AI-driven projects, open-source NLP tools, RAG systems, or any **Computer Vision / Deep Learning** challenge that pushes boundaries. Let's connect!
 
 🎯 **Fun Fact:** I can build a working RAG pipeline faster than I can explain what RAG stands for to someone who's never heard of it. 😄
